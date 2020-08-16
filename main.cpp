@@ -63,83 +63,83 @@ phone.answerCall()
 //  2)
 //  Noun: Dog
 //  action 1: the dog barks
-dog.barks()
+dog.barks();
 //  action 2: the dog rolls on the floor
-dog.rollOnTheFloor()
+dog.rollOnTheFloor();
 //  action 3: the dog plays fetch
- dog.playFetch()
+ dog.playFetch();
 
 //  3)
 //  Noun: Musician
 //  action 1: the musician plays a chord
-musician.playChord()
+musician.playChord();
 //  action 2: the musician plays a note
-musician.playNote()
+musician.playNote();
 //  action 3: the musician stops playing
-musician.stopPlaying()
+musician.stopPlaying();
 
 //  4)
 //  Noun: Programmer
 //  action 1: the programmer begins typing
-programmer.beginTyping()
+programmer.beginTyping();
 //  action 2: the programmer stops typing
-programmer.stopTyping()
+programmer.stopTyping();
 //  action 3: the programmer fixes an error
-programmer.fixError() 
+programmer.fixError();
 
 //  5)
 //  Noun: Metronome
 //  action 1: metronome starts playing
-metronome.startPlaying()
+metronome.startPlaying();
 //  action 2: metronome tempo increases
-metronome.increaseTempo()
+metronome.increaseTempo();
 //  action 3: metronome tempo decreases
-metronome.decreaseTempo()
+metronome.decreaseTempo();
 
 //  6)
 //  Noun: Candle
 //  action 1: candle creates heat
-candle.createHeat()
+candle.createHeat();
 //  action 2: candle creates light
-candle.createLight()
+candle.createLight();
 //  action 3: candle flickers
-candle.flicker()
+candle.flicker();
 
 //  7)
 //  Noun: musicSystem
 //  action 1: play song
-musicSystem.playSong()
+musicSystem.playSong();
 //  action 2: pause song
-musicSystem.pauseSong()
+musicSystem.pauseSong();
 //  action 3: stop playback
-musicSystem.stopPlayback()
+musicSystem.stopPlayback();
 
 //  8)
 //  Noun: tree
 //  action 1: grow branches
-tree.growBranches()
+tree.growBranches();
 //  action 2: bear fruit
-tree.bearFruit()
+tree.bearFruit();
 //  action 3: extend roots
-tree.extendRoots()
+tree.extendRoots();
 
 //  9)
 //  Noun: printer
 //  action 1: prints in black and white
-printer.printBlackAndWhite()
+printer.printBlackAndWhite();
 //  action 2: prints in colour
-printer.printColour()
+printer.printColour();
 //  action 3: paper jam
-printer.paperJammed()
+printer.paperJammed();
 
 //  10)
 //  Noun: Monkey
 //  action 1: eat banana
-monkey.eatBanana()
+monkey.eatBanana();
 //  action 2: monkey see
-monkey.monkeySee()
+monkey.monkeySee();
 //  action 3: monkey do
-monkey.monkeyDo()
+monkey.monkeyDo();
  
 
 
