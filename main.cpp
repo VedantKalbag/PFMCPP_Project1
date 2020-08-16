@@ -54,11 +54,11 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  1)
 //  Noun:Phone
 //  action 1: the phone rings
-phone.ring()
+phone.ring();
 //  action 2: the phone makes a call
-phone.makeCall()
+phone.makeCall();
 //  action 3: the phone answers the call
-phone.answerCall()
+phone.answerCall();
 
 //  2)
 //  Noun: Dog
@@ -115,13 +115,13 @@ musicSystem.pauseSong();
 musicSystem.stopPlayback();
 
 //  8)
-//  Noun: tree
-//  action 1: grow branches
-tree.growBranches();
-//  action 2: bear fruit
-tree.bearFruit();
-//  action 3: extend roots
-tree.extendRoots();
+//  Noun: basketballPlayer
+//  action 1: player dribbles the ball
+basketballPlayer.dribbleBall();
+//  action 2: player does a trick
+basketballPlayer.doTrick();
+//  action 3: player takes a shot
+basketballPlayer.takeShot();
 
 //  9)
 //  Noun: printer
