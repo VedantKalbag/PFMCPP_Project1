@@ -52,84 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun:Phone
+//  action 1: the phone rings
+phone.ring();
+//  action 2: the phone makes a call
+phone.makeCall();
+//  action 3: the phone answers the call
+phone.answerCall();
 
-//  action 2:
-
-//  action 3:
- 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: Dog
+//  action 1: the dog barks
+dog.barks();
+//  action 2: the dog rolls on the floor
+dog.rollOnTheFloor();
+//  action 3: the dog plays fetch
+ dog.playFetch();
 
-//  action 2:
-
-//  action 3:
- 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: Musician
+//  action 1: the musician plays a chord
+musician.playChord();
+//  action 2: the musician plays a note
+musician.playNote();
+//  action 3: the musician stops playing
+musician.stopPlaying();
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: Programmer
+//  action 1: the programmer begins typing
+programmer.beginTyping();
+//  action 2: the programmer stops typing
+programmer.stopTyping();
+//  action 3: the programmer fixes an error
+programmer.fixError();
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: Metronome
+//  action 1: metronome starts playing
+metronome.startPlaying();
+//  action 2: metronome tempo increases
+metronome.increaseTempo();
+//  action 3: metronome tempo decreases
+metronome.decreaseTempo();
 
-//  action 2:
-
-//  action 3:
- 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: Candle
+//  action 1: candle creates heat
+candle.createHeat();
+//  action 2: candle creates light
+candle.createLight();
+//  action 3: candle flickers
+candle.flicker();
 
-//  action 2:
-
-//  action 3:
- 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: musicSystem
+//  action 1: play song
+musicSystem.playSong();
+//  action 2: pause song
+musicSystem.pauseSong();
+//  action 3: stop playback
+musicSystem.stopPlayback();
 
-//  action 2:
-
-//  action 3:
- 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: basketballPlayer
+//  action 1: player dribbles the ball
+basketballPlayer.dribbleBall();
+//  action 2: player does a trick
+basketballPlayer.doTrick();
+//  action 3: player takes a shot
+basketballPlayer.takeShot();
 
-//  action 2:
-
-//  action 3:
- 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: printer
+//  action 1: prints in black and white
+printer.printBlackAndWhite();
+//  action 2: prints in colour
+printer.printColour();
+//  action 3: paper jam
+printer.paperJammed();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Monkey
+//  action 1: eat banana
+monkey.eatBanana();
+//  action 2: monkey see
+monkey.monkeySee();
+//  action 3: monkey do
+monkey.monkeyDo();
  
 
 
